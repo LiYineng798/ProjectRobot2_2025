@@ -12,4 +12,4 @@ images = [
 while True:
     for img in images:
         display.show(img)
-        sleep(3000)  # 随机 2~3 秒
+        sleep(3000)  
