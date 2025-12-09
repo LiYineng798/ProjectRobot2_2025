@@ -1,2 +1,3 @@
-# ProjectRobot1_2025
+# ProjectRobot2_2025
 
+This project implements an intelligent Micro:bit V2 robot with facial detection, face recognition, LED-matrix interaction, and encrypted facial-data storage, developed using the Agile Scrum framework. Through three iterative sprints, the system was built step-by-step: assembling the Micro:bit robot, programming LED image display, integrating the K210 vision module for real-time face detection and recognition, and finally adding SHA-256 hashing and AES encryption to securely store facial features. The robot can recognize up to 10 registered faces and display different LED expressions for each one. All development was version-controlled through GitHub, with burndown charts and user-story planning guiding the full development lifecycle.
